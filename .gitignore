@@ -1,0 +1,13 @@
+# OS files
+.DS_STORE
+
+# IDE
+.vscode
+
+# Tiled
+*tiled-session
+
+# Python
+*.pyc
+__pycache__
+
