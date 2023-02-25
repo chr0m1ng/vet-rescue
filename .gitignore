@@ -6,8 +6,8 @@
 
 # Tiled
 *tiled-session
+tsx
 
 # Python
 *.pyc
 __pycache__
-
